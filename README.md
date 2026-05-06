@@ -68,7 +68,7 @@ class Kyla:
 <div align="center">
 
 
-📬 **[harpek214@gmail.com](mailto:harpek214@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/kyla-harpe)** · 🐙 **[github.com/kybyt3](https://github.com/kybyt3)**
+📬 **[harpek214@gmail.com](mailto:harpek214@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/kyla-harpe)**
 
 
 </div>
