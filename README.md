@@ -3,7 +3,7 @@
 
 ### `> she/her · computer scientist · researcher · musician`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6EC7&center=true&width=435&lines=Computer+Science+%40+Florida+Poly+%F0%9F%8C%B4;Building+AI+agents+%F0%9F%A4%96;Published+research+%F0%9F%94%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6EC7&center=true&width=435&lines=Kyla+Harpe+%F0%9F%8C%B4;Building+AI+agents+%F0%9F%A4%96;Published+research+%F0%9F%94%AC;Database+Analyst)](https://git.io/typing-svg)
 </div>
 
 ---
